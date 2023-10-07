@@ -20,18 +20,12 @@ At the top right corner of the Github repository, there will be a button that sa
 
 Now, you should have a new repository in your repo panel in the form of `<your-username>/hactoberfest2023`. From a terminal, run these commands to clone this repository and enter it.
 
-```sh
-git clone https://<your-username>/hactoberfest2023
-cd hactoberfest2023/
-```
+
 
 3. Create a branch
 
 This branch is where all of your contributions for a particular feature or item will reside.
 
-```sh
-git checkout -b <branch-name>
-```
 
 The branch name can be anything, but ideally it should be a one to three word summary of a feature or contribution you plan to make.
 
@@ -41,23 +35,15 @@ At this point, everything is setup for you to make your changes to the repositor
 
 This command allows git Git to track your changes.
 
-```sh
-git add <files you added/changed>
-```
+
 
 This command commits (saves) your changes for each file specified in the command. Make sure to add a useful and informative comment to document your changes.
 
-```sh
-git commit -m "<your commit message>" <files you added/changed>
-```
 
 5. Push to origin
 
 Make your commits visible on Github.
 
-```sh
-git push origin <your-branch>
-```
 
 6. Create a Pull Request
 
