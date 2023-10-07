@@ -18,11 +18,11 @@ At the top right corner of the Github repository, there will be a button that sa
 
 2. Clone your fork of this repository
 
-Now, you should have a new repository in your repo panel in the form of `<your-username>/HACTOBERFEST2023`. From a terminal, run these commands to clone this repository and enter it.
+Now, you should have a new repository in your repo panel in the form of `<your-username>/hactoberfest2023`. From a terminal, run these commands to clone this repository and enter it.
 
 ```sh
-git clone https://<your-username>/HACTOBERFEST2023
-cd HACTOBERFEST2023/
+git clone https://<your-username>/hactoberfest2023
+cd hactoberfest2023/
 ```
 
 3. Create a branch
